@@ -1,0 +1,1 @@
+Checkpoints, configurations and tfevent files for training efficientdet-d0 512x512 on elevator button dataset. 
